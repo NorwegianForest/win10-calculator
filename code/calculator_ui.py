@@ -1,4 +1,4 @@
-from PythonApplication1 import calculator_algorithm
+from code import calculator_algorithm
 from tkinter import *
 
 
