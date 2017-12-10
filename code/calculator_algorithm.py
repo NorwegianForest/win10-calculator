@@ -6,7 +6,6 @@ author NorwegianForest
 返回运算结果
 支持加减乘除和括号运算
 """
-
 from collections import deque
 from decimal import Decimal
 
